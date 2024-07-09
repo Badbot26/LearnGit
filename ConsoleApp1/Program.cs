@@ -12,6 +12,7 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Example of a message displayed to the console.");
             Console.WriteLine("Second message.");
+            Console.WriteLine("Third message.");
             Console.WriteLine("Fourth message.");
         }
     }
